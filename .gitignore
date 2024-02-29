@@ -1,2 +1,2 @@
-# ignore the file literally named foo[01].mp3
-foo\[01\].mp3
+#ignorando arquivos mp3
+*.mp3
