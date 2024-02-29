@@ -1,2 +1,2 @@
-*.mp3
-!internal/data/*.mp3
+# ignore the file literally named foo[01].mp3
+foo\[01\].mp3
